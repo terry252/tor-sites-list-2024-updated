@@ -4,7 +4,7 @@
 
 </center>
 
-# Darknеt List 
+# Darknеt Page
 
 > A curated list of verified `.onion` links of various Onion Services on darknеt
 
@@ -38,8 +38,15 @@
 
 - [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin
+  - **HIGHLY RECOMMENDED:** Litecoin, Monero
 
 <a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
+
+- [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
+  - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
+
+<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
 
 - [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
   - Accepted Cryptocurrency: Bitcoin
@@ -48,16 +55,13 @@
 
 - [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares.png" width="600"><a>
 
-- [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
-  - Accepted Cryptocurrency: Bitcoin, Monero
-
-<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
-
 - [Incognito Market](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion) - `http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero, Ethereum
+  - **HIGHLY RECOMMENDED:** Monero, Ethereum
  
 <a href="http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion"><img src="/assets/incognito.png" width="600"><a>
 
@@ -68,6 +72,7 @@
 
 - [Cypher Market](http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion) - `http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://6c5qaelgldw6ktl7lkfv2d432qoyo7j7kd22hebwlbx7khpvitb4t4id.onion"><img src="/assets/cypher.png" width="600"><a>
 
@@ -83,16 +88,19 @@
 
 - [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
 
 - [Go Fish Market](http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion) - `http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion"><img src="/assets/fish.png" width="600"><a>
 
 - [Kerberos Market](http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion) - `http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion"><img src="/assets/kerberos.png" width="600"><a>
 
@@ -103,21 +111,25 @@
 
 - [We The North Market (Canada)](http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion) - `http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion"><img src="/assets/wtn.png" width="600"><a>
 
 - [Flugsvamp 4.0 (Sweden)](http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion) - `http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://fs4is7s64kbow5w37kkptu2zmlw5ahjeagmtrgfdtwet3burwqvcciad.onion"><img src="/assets/flugsvamp4.png" width="600"><a>
 
 - [Mega Market (Russia)](http://mega555la2l35altkhky65cuoks3escuxd7qyveozy5gtm2a4w5eu7qd.onion) - `http://mega555la2l35altkhky65cuoks3escuxd7qyveozy5gtm2a4w5eu7qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero, USDT20
+  - **HIGHLY RECOMMENDED:** Monero, USDT20
 
 <a href="http://mega555la2l35altkhky65cuoks3escuxd7qyveozy5gtm2a4w5eu7qd.onion"><img src="/assets/mega.png" width="600"><a>
 
 - [Ramp Market (Russia)](http://rampclum7j4vgz54i6p63eahkr5wsyq7rwbxgclx4ag3estqwovfasqd.onion) - `http://rampclum7j4vgz54i6p63eahkr5wsyq7rwbxgclx4ag3estqwovfasqd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://rampclum7j4vgz54i6p63eahkr5wsyq7rwbxgclx4ag3estqwovfasqd.onion"><img src="/assets/ramp.png" width="600"><a>
 
@@ -152,11 +164,13 @@
 
 - [The Spitzenkörper](http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion) - `http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://d4giq7x7ptke7mwepvjmeqlael3nf7vlib5psxi5smsmh4uoxlj4gfyd.onion"><img src="/assets/spitze.png" width="600"><a>
 
 - [Tribe Seuss](http://eisrgs2qjiuvof4qvch2yknfq2m6ha4qyipgvggepjaseorh4bhykiqd.onion) - `http://eisrgs2qjiuvof4qvch2yknfq2m6ha4qyipgvggepjaseorh4bhykiqd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://eisrgs2qjiuvof4qvch2yknfq2m6ha4qyipgvggepjaseorh4bhykiqd.onion"><img src="/assets/tribeseuss.png" width="600"><a>
 
@@ -169,6 +183,7 @@
 
 - [BriansClub](http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion) - `http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin, Dash, USDT20
+  - **HIGHLY RECOMMENDED:** Monero, Litecoin,  Dash, USDT220
 
 <a href="http://brianslzqilxbjdpqidervejxeus55trednzyi5voayzl4tpett7u2ad.onion"><img src="/assets/briansclub.png" width="600"><a>
 
