@@ -42,6 +42,12 @@
 
 <a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
 
+- [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
+  - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
+
+<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon.png" width="600"><a>
+
 - [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
   - **HIGHLY RECOMMENDED:** Monero
