@@ -59,6 +59,11 @@
 
 <a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
 
+- [Archetyp Market](http://arche3vuu6mymrvxmgxlfkew2nlwsbi7k3yi3g3ksjk3tehrtn6weqqd.onion) - `http://arche3vuu6mymrvxmgxlfkew2nlwsbi7k3yi3g3ksjk3tehrtn6weqqd.onion`
+  - Accepted Cryptocurrency: Monero
+
+<a href="http://arche3vuu6mymrvxmgxlfkew2nlwsbi7k3yi3g3ksjk3tehrtn6weqqd.onion"><img src="/assets/archetyp.png" width="600"><a>
+
 - [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
   - **HIGHLY RECOMMENDED:** Monero
@@ -109,11 +114,6 @@
   - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion"><img src="/assets/kerberos.png" width="600"><a>
-
-- [Archetyp Market](http://arche65jhbxenremkwwwpy2ulo2zdhbr3jtykqh65igcw6hfpzpdgkyd.onion) - `http://arche65jhbxenremkwwwpy2ulo2zdhbr3jtykqh65igcw6hfpzpdgkyd.onion`
-  - Accepted Cryptocurrency: Monero
-
-<a href="http://arche65jhbxenremkwwwpy2ulo2zdhbr3jtykqh65igcw6hfpzpdgkyd.onion"><img src="/assets/archetyp.png" width="600"><a>
 
 - [We The North Market (Canada)](http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion) - `http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
