@@ -36,12 +36,6 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
-  - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin
-  - **HIGHLY RECOMMENDED:** Litecoin, Monero
-
-<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
-
 - [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
   - **HIGHLY RECOMMENDED:** Monero
@@ -53,6 +47,12 @@
   - **HIGHLY RECOMMENDED:** Monero
 
 <a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
+
+- [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
+  - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin
+  - **HIGHLY RECOMMENDED:** Litecoin, Monero
+
+<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
 
 - [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
   - Accepted Cryptocurrency: Bitcoin
