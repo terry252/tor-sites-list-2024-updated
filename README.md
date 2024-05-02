@@ -4,7 +4,7 @@
 
 </center>
 
-# Darknеt Page
+# Dark Web Links
 
 > A curated list of verified `.onion` links of various Onion Services on darknеt
 
@@ -36,11 +36,11 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
-  - Accepted Cryptocurrency: Bitcoin, Monero
-  - **HIGHLY RECOMMENDED:** Monero
+- [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
+  - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin
+  - **HIGHLY RECOMMENDED:** Litecoin, Monero
 
-<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon.png" width="600"><a>
+<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
 
 - [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero
@@ -48,11 +48,11 @@
 
 <a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
 
-- [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
-  - Accepted Cryptocurrency: Bitcoin, Monero, Litecoin
-  - **HIGHLY RECOMMENDED:** Litecoin, Monero
+- [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
+  - Accepted Cryptocurrency: Bitcoin, Monero
+  - **HIGHLY RECOMMENDED:** Monero
 
-<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
+<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon.png" width="600"><a>
 
 - [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
   - Accepted Cryptocurrency: Bitcoin
