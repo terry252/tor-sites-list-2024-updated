@@ -37,6 +37,11 @@
 
 *Established Darknet markets that have been operating for a while*
 
+- [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
+  - **Accepted Cryptocurrency:** Bitcoin, Monero
+
+<a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
+
 - [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin
 
@@ -86,11 +91,6 @@
   - **Accepted Cryptocurrency:** Monero
 
 <a href="http://darkmatile7wd5oi655lpbsco5nziq43kdb75nxbcqt3h64rany6evad.onion"><img src="/assets/darkmatter.png" width="600"><a>
-
-- [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
 
 - [We The North Market (Canada)](http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion) - `http://hn2paw7xssgi667hb2ip335q2t6x236kcoedsanyj6jicpq2wb66i5qd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
