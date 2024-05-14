@@ -37,11 +37,6 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
-
 - [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin
 
@@ -51,6 +46,11 @@
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
+
+- [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
+  - **Accepted Cryptocurrency:** Bitcoin, Monero
+
+<a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
 
 - [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
