@@ -37,6 +37,23 @@
 
 *Established Darknet markets that have been operating for a while*
 
+$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning:}$ It's so sad to see that most of the darknet markets on the list are subject to a massive DDOS attack. But there is hope! The first markets on the list are the most stable, so let's focus on them.
+
+- [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
+  - **Accepted Cryptocurrency:** Monero
+
+<a href="http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion"><img src="/assets/drughub.png" width="600"><a>
+
+- [Super Market](http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion) - `http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion`
+  - **Accepted Cryptocurrency:** Monero
+
+<a href="http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion"><img src="/assets/supermarket.png" width="600"><a>
+
+- [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
+  - **Accepted Cryptocurrency:** Bitcoin, Monero
+
+<a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares.png" width="600"><a>
+
 - [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin
 
@@ -62,25 +79,10 @@
 
 <a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
 
-- [DrugHub Market](http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion) - `http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion`
-  - **Accepted Cryptocurrency:** Monero
-
-<a href="http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion"><img src="/assets/drughub.png" width="600"><a>
-
-- [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares.png" width="600"><a>
-
 - [Kerberos Market](http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion) - `http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://kerberoxl2y6mtsxcr5fiffoodu4nvbtnukshtgmexnjareza7uwh2qd.onion"><img src="/assets/kerberos.png" width="600"><a>
-
-- [Super Market](http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion) - `http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion`
-  - **Accepted Cryptocurrency:** Monero
-
-<a href="http://superxxgyzxwmf4xvoe2yhytbzzw3mpkpieczdpxro3rrizdegdi3tid.onion"><img src="/assets/supermarket.png" width="600"><a>
 
 - [Go Fish Market](http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion) - `http://gofish4mxkyvdjncmyfm4paptmg4gyatqg7hay3y4kyzzjmw3jarcsyd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
