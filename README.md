@@ -37,8 +37,6 @@
 
 *Established Darknet markets that have been operating for a while*
 
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning:}$ It's so sad to see that most of the darknet markets on the list are subject to a massive DDOS attack. But there is hope! The first markets on the list are the most stable, so let's focus on them.
-
 - [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
@@ -54,7 +52,7 @@ $\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning:}$ It's s
 
 <a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
 
-- [MGM Grand Market](http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion) - `http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion`
+- [MGM Grand Market](http://duysanj5gu3trvmsfaxhharwqrvz4nznukfqrzsvq65y3eq2ofhivcid.onion) - `http://duysanj5gu3trvmsfaxhharwqrvz4nznukfqrzsvq65y3eq2ofhivcid.onion`
   - **Accepted Cryptocurrency:** Bitcoin
 
 <a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
