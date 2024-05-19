@@ -72,7 +72,7 @@
 
 <a href="http://drughubmgeg6mt2cebp7b5aknd7iqlwnhfxg6tketey2234ubzqkucid.onion"><img src="/assets/drughub.png" width="600"><a>
 
-- [Ares Market](http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion) - `http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion`
+- [Ares Market](http://sn2sfdixdxw3ye6mlllq3gctbn2dpkpibjameu2j6vbb4imgdohu73id.onion) - `http://sn2sfdixdxw3ye6mlllq3gctbn2dpkpibjameu2j6vbb4imgdohu73id.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://sn2sfdeyluqqdjehgky4ua72cmklsjng2sbfm3difrnsyvtgewkfq6qd.onion"><img src="/assets/ares.png" width="600"><a>
