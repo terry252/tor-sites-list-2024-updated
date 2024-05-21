@@ -37,30 +37,30 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
-
 - [Nexus Market](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion) - `http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin
 
 <a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus.png" width="600"><a>
+
+- [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
+  - **Accepted Cryptocurrency:** Bitcoin, Monero
+
+<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon.png" width="600"><a>
 
 - [Abacus Market](http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion) - `http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
 
 <a href="http://abacuseg5vlppx3afutoh4msztikn7gcfr4rud3ofemjvzqtx4256xid.onion"><img src="/assets/abacus.png" width="600"><a>
 
+- [DarkDock Market](http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion) - `http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion`
+  - **Accepted Cryptocurrency:** Bitcoin, Monero
+
+<a href="http://ddockkhsevtcwlpkl54x5zat3i564zsedfbvavmxvvgpnw5lpt44xxqd.onion"><img src="/assets/darkdock.png" width="600"><a>
+
 - [MGM Grand Market](http://duysanj5gu3trvmsfaxhharwqrvz4nznukfqrzsvq65y3eq2ofhivcid.onion) - `http://duysanj5gu3trvmsfaxhharwqrvz4nznukfqrzsvq65y3eq2ofhivcid.onion`
   - **Accepted Cryptocurrency:** Bitcoin
 
 <a href="http://duysanjcemitm4r6sadiqzkswvx6kx7vxur4sycuocrzrekutpb3d5qd.onion"><img src="/assets/mgmgrand.png" width="600"><a>
-
-- [TorZon Market](http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion) - `http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://torzon4se2davfc64iasvw3di2d5ieq53sm26zfgsjm37wimgafidhqd.onion"><img src="/assets/torzon.png" width="600"><a>
 
 - [Incognito Market](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion) - `http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion`
   - Accepted Cryptocurrency: Bitcoin, Monero, Ethereum
